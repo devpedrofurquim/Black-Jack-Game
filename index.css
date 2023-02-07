@@ -1,0 +1,39 @@
+body {
+  background: darkgreen;
+  font-family: 'Montserrat';
+  background-image: url("background-image.jpg");
+  background-size: cover;
+  font-weight: bold;
+  text-align: center;
+}
+
+button {
+  font-size: 50px;
+  font-weight: bold;
+  background: goldenrod;
+  color: #016f32;
+  width: 500px;
+  padding: 10px 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 2px;
+  display:inline-block;
+  margin: 5px;
+}
+
+h1 {
+  color: goldenrod;
+  font-weight: 700;
+  font-size: 70px;
+  margin: 10px 0px;
+}
+
+p {
+  font-weight: 700;
+  font-size: 40px;
+  color: White;
+  margin: 70px 0px;
+}
+
+#message-el { 
+font-style: italic;}
